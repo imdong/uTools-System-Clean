@@ -1,0 +1,19 @@
+{
+	"pluginName": "克垃圾-系统垃圾清理",
+	"description": "一个极简轻巧且好用的系统垃圾清理软件",
+	"preload": "preload.js",
+	"author": "ImDong",
+	"homepage": "https://www.qs5.org/?utools-clear-system",
+	"version": "0.0.2",
+	"logo": "logo.png",
+	"features": [
+		{
+			"code": "clear_system",
+			"explain": "清理系统垃圾",
+			"cmds": [
+				"清理系统垃圾",
+				"clear system"
+			]
+		}
+	]
+}
